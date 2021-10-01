@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="delegated_dev_table" max_length="40" name="x_snc_stevens_app_delegated_dev_table" type="collection">
+        <element default="asdf" label="delegated dev column" max_length="40" name="delegated_dev_column" type="string"/>
+    </element>
+</database>

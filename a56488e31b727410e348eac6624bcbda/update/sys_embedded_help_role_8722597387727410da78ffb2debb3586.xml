@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_stevensapp_tablesforms" name="sn_dd_stevensapp_tablesforms">8722597387727410da78ffb2debb3583</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>steven.belowsky@snc</sys_created_by>
+        <sys_created_on>2021-10-01 14:00:49</sys_created_on>
+        <sys_id>8722597387727410da78ffb2debb3586</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8722597387727410da78ffb2debb3583</sys_name>
+        <sys_package display_value="Stevens App" source="x_snc_stevens_app">a56488e31b727410e348eac6624bcbda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stevens App">a56488e31b727410e348eac6624bcbda</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8722597387727410da78ffb2debb3586</sys_update_name>
+        <sys_updated_by>steven.belowsky@snc</sys_updated_by>
+        <sys_updated_on>2021-10-01 14:00:49</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
